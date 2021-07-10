@@ -1,0 +1,21 @@
+
+div div h3 {
+    color: red;
+}
+
+.navbar {
+    background-color: blue !important;
+}
+
+.sector {
+    background-color: blueviolet;
+}
+
+#nav {
+    background-color: chartreuse;
+} 
+
+div h1 {
+    color: blue;
+}
+
